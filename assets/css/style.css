@@ -157,9 +157,7 @@ p{
 	}
 
 	footer {
-		margin-top: 49px;
-		position: relative;
-		bottom: 5px!important;
+		display: none;
 	}
 
 
