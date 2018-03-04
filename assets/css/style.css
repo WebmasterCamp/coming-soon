@@ -157,7 +157,8 @@ p{
 	}
 
 	footer {
-		bottom: 5px;
+		position: fixed;
+		bottom: 5px!important;
 	}
 
 
