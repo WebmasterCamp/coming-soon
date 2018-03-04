@@ -156,6 +156,11 @@ p{
 		background-size: 450px;
 	}
 
+	footer {
+		bottom: 5px;
+	}
+
+
 }
 
 .cloud{
