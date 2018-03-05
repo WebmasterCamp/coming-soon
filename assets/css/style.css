@@ -244,12 +244,12 @@ animation-direction: alternate;
 
 @keyframes cloud-animation {
   from {
-    margin-top: 2%;
+		transform: translateY(2%);
     width: 300%;
   }
 
   to {
-    margin-top: 0%;
+    transform: translateY(0%);
     width: 100%;
   }
 }
